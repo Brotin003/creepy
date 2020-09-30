@@ -1,7 +1,7 @@
 [![PyPI Version](https://img.shields.io/pypi/v/creepy.svg?style=flat)](https://pypi.python.org/pypi/creepy/)
 [![PyPI Download](https://img.shields.io/pypi/dm/creepy.svg?style=flat)](https://pypi.python.org/pypi/creepy/)
 
-# Creepy
+# Creepy- Smart Crawler
 Dead simple web crawler for Python
 
 There are already a lot of web crawlers for Python, such as Scrapy. Creepy is
